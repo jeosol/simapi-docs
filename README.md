@@ -1,1 +1,1 @@
-Documents for the SIMAPI project
+Documents for the SIMAPI Cloud Application Project
